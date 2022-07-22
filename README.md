@@ -6,4 +6,4 @@ Plot raw data, filtered data, XYZ points.
   
 IMPORTANT:  
 Change file path in line: load('C:\Users\Patryk\Desktop\dane_w_cm.mat')  
-to file path on your computer accordingly
+to file path on your computer, you must apply this change to both .m files to run them correctly.
