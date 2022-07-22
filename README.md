@@ -5,4 +5,5 @@ Calculate Repeatability based on given formulas.
 Plot raw data, filtered data, XYZ points.    
 
 IMPORTANT:  
-Change file path in lines  load('C:\Users\Patryk\Desktop\dane_w_cm.mat')  to file path on your computer accordingly
+Change file path in line: load('C:\Users\Patryk\Desktop\dane_w_cm.mat')
+to file path on your computer accordingly
